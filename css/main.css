@@ -1,0 +1,38 @@
+/*estilos pagina bienvenida*/
+*{
+	font-family: 'Roboto', sans-serif;
+}
+body {
+	background:url(../img/fondo.jpg);
+	background-size:100%;
+	background-position: center 0%, 50%;
+	background-repeat:no-repeat;
+}
+
+.logo {
+	width:60%;
+	margin-left:20%;
+}
+.btn-container{
+	margin-top:100%; 
+	text-align:center;
+}
+.boton {
+	border:1px solid white;
+	border-radius:5px;
+	background-color:transparent;
+	color:white;
+	padding-left:30%;
+	padding-right:30%;
+	padding-top:100%;
+	padding-bottom:10%;
+	font-size:120%;
+}
+.btn-signup {
+	border-style:none;
+	background: #ff00cc; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #ff00cc , #333399); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #ff00cc , #333399); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+/*termino estilos pagina de bienvenida*/
+
