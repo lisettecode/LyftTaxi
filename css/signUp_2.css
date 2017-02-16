@@ -1,0 +1,209 @@
+    .email {
+	margin-top:3%;
+}
+.rowcheckbox {
+	text-align:center;
+	padding-top:10%;
+}
+.glyphicon {
+	top:0px;
+}
+
+
+.terms {
+	color: #05AAF7;
+}
+
+.datos {
+	border: none;
+	display: inline-block;
+	width: 105px;
+}
+
+.datos:focus {
+	outline: none;
+}
+
+.terminos {
+	text-align: center;
+	margin: 18px;
+}
+
+.input-group {
+	margin-bottom: 15px;
+}
+
+.tamanoMapa {
+	width: 100%;
+	height: 100vh;
+}
+
+.pack-icns {
+	width: 100%;
+}
+
+.circulo {
+	border-radius: 50%;
+	background-color: white;
+	border: 1px solid gray;
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	z-index: 100;
+	top: 10px;
+}
+
+.izq {
+	left: 10px
+}
+
+.dere {
+	right: 10px;
+}
+
+.sn-borde {
+	border: none;
+	width: 100%;
+	text-align: center;
+}
+
+.icons {
+	font-size: 26px;
+	color: black;
+	margin: 23%;
+}
+
+.logo2 {
+	width: 20%;
+	height: 50px;
+	position: absolute;
+	z-index: 100;
+	top: 10px;
+	margin: 0 40%;
+}
+
+.pack-btns {
+	position: absolute;
+	z-index: 100;
+	bottom: 0;
+	margin: 2% 3%;
+	width: 95%;
+}
+
+.borde {
+	border: 1px solid #bbb;
+	border-radius: 10px;
+	margin-bottom: 2%;
+	text-align: center;
+	width: 100%;
+}
+
+.dir {
+	background-color: white;
+	padding: 2% 10%;
+}
+
+.pic {
+	padding: 5%;
+	background-size: cover;
+	font-size: 20px;
+	color: white;
+	background-color: #31ADA6;
+	cursor: pointer;
+}
+
+.gm-style-mtc {
+	display: none !important;
+}
+
+.semiperfil {
+	position: absolute;
+	z-index: 100;
+	width: 100%;
+	height: 100vh;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.ocultar {
+	display: none;
+}
+
+.fondoBlanco {
+	background-color: white;
+	position: absolute;
+	height: 100vh;
+	width: 70%;
+}
+
+.circuloFoto {
+	border-radius: 50%;
+	border: 1px solid #bbb;
+	padding: 1%;
+	width: 50%;
+}
+
+.margenes {
+	margin: 3% 0;
+}
+
+.icn-mgd {
+	margin-left: 5%;
+}
+
+.mg-t {
+	margin-left: 5%;
+	display: inline-block;
+}
+
+.fondoFoto {
+	position: relative;
+	width: 100%;
+	height: 50vh;
+}
+
+.puntos {
+	position: absolute;
+	left: 10px;
+	top: 10px;
+}
+
+.btnedit {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}
+
+.fecha {
+	border-radius: 5px;
+	background-color: #F3F5F5;
+	margin: 0 5%;
+	padding: 2% 0;
+}
+
+.icns-pfl {
+	color: black;
+}
+
+.margenlados {
+	margin: 5%;
+}
+
+.texto {
+	margin-left: 2%;
+}
+
+.rect-foto {
+	border: 1px solid #bbb;
+	margin: 2% 10%;
+	width: 80%;
+}
+
+.mt-21 {
+	margin-top: 21px;
+}
+
+.fotoRect {
+	width: 30%;
+	height: 80px;
+	margin: 2% 0;
+}

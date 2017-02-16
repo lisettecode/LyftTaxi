@@ -1,0 +1,23 @@
+.header {
+	text-align:center;
+}
+hr {
+	border:0,5px solid black;
+}
+
+.btn-next {
+	background-color:#FF00BF;
+	border-radius:0px;
+	margin-top:40%;
+	padding:6%;
+	color:whitesmoke;
+}
+.glyphicon-chevron-left{
+	float: left;
+	margin-top:10%;
+}
+
+img{
+    height: 20px;
+    width: auto;
+}
