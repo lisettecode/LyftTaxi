@@ -44,5 +44,16 @@ var cerca3 = new google.maps.Marker({
     title: 'carro3',
     icon: "img/carro.png"
     });
+    
+var myLatLng = {lat: -16.45568919999998, lng: -71.5365308};
+var pazPeru = new google.maps.Marker({
+    position: myLatLng,
+    map: map,
+    title: '¡Aquí estoy!',
+    icon: "img/boyUser.jpg"
+    });
+        
 }
+
+
 
